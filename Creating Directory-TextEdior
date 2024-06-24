@@ -1,0 +1,27 @@
+shanandombasi@Shanas-MacBook-Pro ~ % pwd
+/Users/shanandombasi
+shanandombasi@Shanas-MacBook-Pro ~ % ls
+Applications
+Creative Cloud Files
+Creative Cloud Files shana.nd@icloud.com a5682d36ac2440e204d742988e31a7d91b9878a642a119335b058e30b1fecc77
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+ls
+shanandombasi@Shanas-MacBook-Pro ~ % cd Desktop/
+shanandombasi@Shanas-MacBook-Pro Desktop % mkdir py4e
+shanandombasi@Shanas-MacBook-Pro Desktop % cd py4e
+shanandombasi@Shanas-MacBook-Pro py4e % pwd
+/Users/shanandombasi/Desktop/py4e
+shanandombasi@Shanas-MacBook-Pro py4e % helloworld.py
+zsh: command not found: helloworld.py
+shanandombasi@Shanas-MacBook-Pro py4e % python3 helloworld.py
+hello world!
+shanandombasi@Shanas-MacBook-Pro py4e % 
+
+#this allowed me to see my listen files on python, create a directory where I saved my file from the texteditor and then called that file to run the code helloworld!
