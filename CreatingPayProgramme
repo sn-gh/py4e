@@ -1,0 +1,25 @@
+Last login: Tue Jun 25 16:12:39 on ttys000
+shanandombasi@Shanas-MacBook-Pro ~ % pwd
+/Users/shanandombasi
+shanandombasi@Shanas-MacBook-Pro ~ % ls
+Applications
+Creative Cloud Files
+Creative Cloud Files shana.nd@icloud.com a5682d36ac2440e204d742988e31a7d91b9878a642a119335b058e30b1fecc77
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+shanandombasi@Shanas-MacBook-Pro ~ % cd Desktop/
+shanandombasi@Shanas-MacBook-Pro Desktop % ls
+Fashion Retail Academy	Personal		Screenshots
+OneDrive		SNC			py4e
+shanandombasi@Shanas-MacBook-Pro Desktop % cd py4e/
+shanandombasi@Shanas-MacBook-Pro py4e % python3 pay.py
+Enter Hours: 35
+Enter Rate: 2.75
+Pay: 96.25
+shanandombasi@Shanas-MacBook-Pro py4e % 
